@@ -1,0 +1,12 @@
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\bin\Debug\Eksamensprojekt.exe.config
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\bin\Debug\Eksamensprojekt.exe
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\bin\Debug\Eksamensprojekt.pdb
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.csprojResolveAssemblyReference.cache
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.frm_Main.resources
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.Properties.Resources.resources
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.csproj.GenerateResource.Cache
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.exe
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.pdb
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.Pictures.resources
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.Sounds.resources
+C:\Users\Trung\OneDrive\HTX\Programmering\Eksamens projekt\Eksamensprojekt\Eksamensprojekt\obj\Debug\Eksamensprojekt.frm_Præmier.resources
